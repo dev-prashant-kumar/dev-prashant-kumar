@@ -19,7 +19,7 @@
 
 
 - 🔭 Currently working on: **Mobile App Development**
-- 🌱 I’m learning: **AI/ML concepts, Computer vision and Backend integration **
+- 🌱 I’m learning: **AI/ML concepts, Computer vision and Backend integration**
 - 🤖 I’m exploring: **Artificial Intelligence and Machine Learning** to build smarter, user-focused applications  
 - 💬 Ask me about: **backend integration, system architecture, and problem-solving**  
 - ⚡ Fun fact: I love designing minimal UIs and turning ideas into meaningful experiences.  
