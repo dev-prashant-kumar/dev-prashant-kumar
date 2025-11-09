@@ -162,6 +162,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-prashant-kumar&layout=compact&theme=tokyonight" height="150" />
 </p>
 
+
+<h2 align="center">🔥 My GitHub Streak</h2>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dev-prashant-kumar&theme=highcontrast&hide_border=true" alt="streak stats"/>
+</p>
 ---
 
 ### 🌐 Connect With Me
